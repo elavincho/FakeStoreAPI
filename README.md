@@ -4,7 +4,7 @@
 
 # Consumir una API con JavaScript
 
-Este proyecto se trata de consumir una **API** para simular un ecommerce. Utilizé la API gratuita de **https://fakestoreapi.com**. 
+Este proyecto se trata de consumir una **API** para simular un ecommerce. Utilizé la API gratuita de **fakestoreapi.com**. 
 
 ## Tecnologías utilizadas
 
@@ -19,10 +19,10 @@ Este proyecto se trata de consumir una **API** para simular un ecommerce. Utiliz
 
 ## Link del Proyecto
 - https://elavinchofakestore.netlify.app
-- 
+  
 ## Objetivo del Proyecto
 
-Este sistema tiene la finalidad de obtener productos de una **API** para simular un ecommerce de la cual obtenemos productos con todos sus datos como por ejemplo: el nombre del producto, precio, imagenes y descripción.
+Este sistema tiene la finalidad de obtener productos de una **API** para simular un ecommerce de la cual obtenemos productos con todos sus datos como por ejemplo:
 
 - Id
 - Nombre del producto
@@ -32,3 +32,4 @@ Este sistema tiene la finalidad de obtener productos de una **API** para simular
 
 ## Imagenes del proyecto
 
+<img src="" width="200" height="200" alt="img"/>
