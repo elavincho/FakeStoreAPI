@@ -1,7 +1,7 @@
 
 # Consumir una API con JavaScript
 
-Este proyecto se trata de consumir una **API** para simular un ecommerce. Utilizé la **API** gratuita de **fakestoreapi.com**. 
+Este proyecto se trata de consumir una **API** para simular un ecommerce. Utilicé la **API** gratuita de **fakestoreapi.com**. 
 
 ## Tecnologías utilizadas
 
