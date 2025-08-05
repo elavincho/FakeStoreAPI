@@ -29,4 +29,4 @@ Este sistema tiene la finalidad de obtener productos de una **API** para simular
 
 ## Imagenes del proyecto
 
-<img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/> <img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_3.png" width="200" height="100" alt="img"/>
+<img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_1.png" width="200" height="200" alt="img"/> <img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_2.png" width="200" height="200" alt="img"/><img src="https://github.com/elavincho/FakeStoreAPI/blob/master/img/Captura_de_pantalla_3.png" width="100" height="200" alt="img"/>
