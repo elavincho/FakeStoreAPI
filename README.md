@@ -1,3 +1,4 @@
+<img src="https://github.com/elavincho/ecommerce/blob/master/images/bolso-logo.png" width="80" height="80" alt="img"/> 
 
 # ecommerce - Consumir una API con JavaScript
 
